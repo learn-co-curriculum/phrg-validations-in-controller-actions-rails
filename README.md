@@ -91,4 +91,8 @@ Another way to differentiate redirects is this:
 
 In the next lessons, we'll learn how to use the error information in `@post.errors` to display feedback to the user through our view.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-validations-in-controller-actions-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-validations-in-controller-actions-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Validations in Controller Actions</p>
